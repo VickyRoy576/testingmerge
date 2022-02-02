@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-testtestest by f1
-=======
-testtestest by f2
->>>>>>> origin/dev1
-=======
-testtestest by f23
+testtestest by f1eere
 
->>>>>>> origin/dev1
