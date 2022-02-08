@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 testtestest by ertr f1eerevvewaerewe
 sdfgsdfarfert
+=======
+test2cvcvb
+>>>>>>> origin/dev1
 
