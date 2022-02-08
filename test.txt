@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-testtestest by f1eere
-=======
-testtestest by f23r
->>>>>>> origin/dev1
+test2
 
